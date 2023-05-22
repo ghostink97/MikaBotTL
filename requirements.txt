@@ -1,6 +1,6 @@
 git+https://github.com/Rapptz/discord.py
 prettytable==0.7.2
-requests==2.20.0
+requests==2.31.0
 beautifulsoup4==4.6.0
 strawpy==1.1
 lxml==3.8.0
